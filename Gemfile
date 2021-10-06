@@ -9,7 +9,7 @@ gem "ohm-contrib",        "3.0.0"
 gem "telegram-bot-ruby",  "0.6.0.2"
 gem "require_all",        "1.3.3"
 gem "clockwork",          "2.0.0"
-gem "sidekiq",            "4.2.5"
+gem "sidekiq",            "5.2.0"
 gem "factory_girl",       "3.0.0"
 
 group :development, :test do
