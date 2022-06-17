@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 ruby "2.3.1"
 
-gem "i18n",               "0.7.0"
+gem "i18n",               "0.8.0"
 gem "thin",               "1.7.0"
 gem "ohm",                "3.0.3"
 gem "ohm-contrib",        "3.0.0"
